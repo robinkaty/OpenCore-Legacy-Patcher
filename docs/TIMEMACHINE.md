@@ -23,3 +23,6 @@ Time Machine restoring seems to be currently broken on Sequoia even after uninst
 
 :::
 
+::: This is serious enough of a flaw that it should be noted in the OCLP Screen!
+
+:::
